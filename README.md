@@ -2,12 +2,19 @@
 System Analysis and Design (SAD) involves creating systems by understanding user needs, system types, and following SDLC steps. Analysts use CASE tools and methods like object-oriented design and prototyping to build user-friendly systems.
 
 TOPIC 1 - FUNDAMENTALS OF SYSTEM ANALYSIS & DESIGN
+
 TOPIC 2 - PROJECT PLANNING PROCESS
+
 TOPIC 3 - INFORMATION GATHERING
+
 TOPIC 4 (PART 1) - THE ANALYSIS PROCESS (DATA FLOW DIAGRAM)
+
 TOPIC 4 (PART 2) - PROCESS SPECIFICATION
+
 TOPIC 4 (PART 3) - STRUCTURE CHART
+
 TOPIC 5 - DESIGN TASK
+
 TOPIC 6 - SYSTEMS IMPLEMENTATION
 
 PROJECT 1 2 3 - TITTLE : ONLINE FOOD DELIVERY SYSTEM.
