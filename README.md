@@ -44,6 +44,73 @@ Covers converting the system design into a working solution through coding, test
 
 ---
 
-🛠️ _This section reflects my academic progress in understanding how effective systems are planned, analyzed, designed, and implemented._  
-🔗 _Check out my project repositories for practical examples!_
+Absolutely! Here's your updated **GitHub project description** with the repository link included, perfect for your `README.md` or project intro section:
+
+---
+
+# 🍽️ **Online Food Delivery System (OFDS)**  
+## 📦 *Project Phase 1*
+
+
+This repository contains the **Phase 1 proposal** for our *Online Food Delivery System (OFDS)*, developed for the SECD2613 System Analysis and Design course at Universiti Tun Hussein Onn Malaysia.
+
+🔗 **View on GitHub:**
+[SECD2613 Phase 1 – GitHub Repository](https://github.com/Leavinish/SECD2613-01-01-2024-2025-2-ANALISA-DAN-REKABENTUK-SISTEM/tree/main/PROJECT%20PHASE%201)
+
+---
+
+### 🔍 Project Overview
+
+The OFDS project is developed to address common problems found in current food delivery platforms, including:
+
+* 🚫 Slow or delayed deliveries
+* 😕 Complex or non-intuitive user interfaces
+* 💳 Limited payment flexibility
+
+Our goal is to design a user-friendly, efficient, and scalable system that benefits customers, restaurants, and delivery personnel alike.
+
+---
+
+### 🧠 Key Features (Planned)
+
+* 📱 Cross-platform mobile app (Flutter or React Native)
+* 🏪 Restaurant management dashboard
+* 🚚 Real-time delivery tracking with GPS integration
+* 💰 Multiple secure payment methods (Stripe, PayPal, GrabPay, Touch ‘n Go, COD)
+
+---
+
+### 📊 What's Included in Phase 1
+
+* ✔️ Market research & competitive analysis
+* ✔️ Problem statement & proposed solutions
+* ✔️ Feasibility study (technical, operational, economic)
+* ✔️ Objectives, scope, and stakeholder roles
+* ✔️ Project planning (WBS, Gantt Chart, PERT Chart)
+* ✔️ Human resource planning and role distribution
+
+---
+
+📘 Project Phase 2 – Requirement Analysis & User Feedback
+In Phase 2 of the OFDS project, we focused on refining the system’s requirements by analyzing real-world feedback and modelling the current ("AS-IS") business processes. We conducted an online survey with over 60 participants to understand key user frustrations, including slow deliveries, confusing app navigation, and limited payment options. From this, we proposed targeted improvements such as a streamlined ordering flow, real-time delivery tracking, and flexible multi-payment integration.
+
+We also developed detailed Logical Data Flow Diagrams (DFDs) to visualize current inefficiencies—like manual order processing and inconsistent rider assignment—and used those insights to define both functional and non-functional system requirements (e.g., usability, reliability, security). This phase ensures our system design aligns with real user expectations and lays the foundation for the next phase of prototyping.
+
+🔗 View Phase 2 Document on GitHub:
+Project Phase 2 Repository
+
+---
+
+🚀 Project Phase 3 – System Enhancement & Design
+In Phase 3, we transitioned from planning to system design and enhancement. This phase focuses on optimizing the existing OFDS architecture by introducing intelligent features and refining workflows for better performance. Key problems addressed include manual rider assignment, lack of AI-driven personalization, poor mobile experience for restaurant staff, and limited admin tools.
+
+Our proposed solutions involve implementing automated rider assignment using proximity logic, an AI-based food recommendation system, real-time notification and reporting tools, and a mobile-optimized restaurant dashboard. Logical and Physical Data Flow Diagrams (DFDs) were developed to define how the improved system handles processes like user login, order management, delivery tracking, payment processing, and admin reporting.
+
+We also created a detailed system architecture that includes presentation, application, and data layers, along with wireframes showcasing input/output design. These improvements ensure a seamless, efficient, and user-centered experience for all stakeholders.
+
+🔗 View Phase 3 Document on GitHub:
+Project Phase 3 Repository
+
+
+
 
