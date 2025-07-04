@@ -96,8 +96,8 @@ In Phase 2 of the OFDS project, we focused on refining the system’s requiremen
 
 We also developed detailed Logical Data Flow Diagrams (DFDs) to visualize current inefficiencies—like manual order processing and inconsistent rider assignment—and used those insights to define both functional and non-functional system requirements (e.g., usability, reliability, security). This phase ensures our system design aligns with real user expectations and lays the foundation for the next phase of prototyping.
 
-🔗 View Phase 2 Document on GitHub:
-Project Phase 2 Repository
+🔗 **Project Phase 2 Repository:**  
+[📁 View on GitHub](https://github.com/Leavinish/SECD2613-01-01-2024-2025-2-ANALISA-DAN-REKABENTUK-SISTEM/tree/main/PROJECT%20PHASE%202)
 
 ---
 
@@ -108,7 +108,7 @@ Our proposed solutions involve implementing automated rider assignment using pro
 
 We also created a detailed system architecture that includes presentation, application, and data layers, along with wireframes showcasing input/output design. These improvements ensure a seamless, efficient, and user-centered experience for all stakeholders.
 
-🔗 View Phase 3 Document on GitHub:
+[🔗 View Phase 3 Document on GitHub:](https://github.com/Leavinish/SECD2613-01-01-2024-2025-2-ANALISA-DAN-REKABENTUK-SISTEM/tree/main/PROJECT%20PHASE%203)
 Project Phase 3 Repository
 
 
